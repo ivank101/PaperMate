@@ -1,0 +1,26 @@
+{
+  "login": {
+      "title": "Login",
+      "subtitle": "If you don't have an account,",
+      "registerText": "Register here",
+      "emailPlaceholder": "Enter your email",
+      "passwordPlaceholder": "Enter your password",
+      "rememberPasswordLabel": "Remember password",
+      "loginButton": "Login"
+  },
+  "register": {
+    "RegisterNewAccount": "Register New Account",
+    "Username": "Username:",
+    "Email": "Email:",
+    "Password": "Password:",
+    "ReenterPassword": "Re-enter Password:",
+    "Telephone": "Telephone:",
+    "PreferredLanguage": "Preferred language",
+    "REGISTER": "REGISTER",
+    "UsernamePlaceholder": "Enter Username",
+    "EmailPlaceholder": "Enter Email",
+    "PasswordPlaceholder": "Enter Password",
+    "ReenterPasswordPlaceholder": "Re-enter Password",
+    "TelePlaceholder": "Enter Telephone"
+  }
+}

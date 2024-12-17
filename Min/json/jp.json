@@ -1,0 +1,28 @@
+{
+  "login": {
+    "title": "ログイン",
+    "subtitle": "アカウントをお持ちでない方は",
+    "registerText": "新規登録",
+    "emailPlaceholder": "メールアドレスを入力",
+    "passwordPlaceholder": "パスワードを入力",
+    "rememberPasswordLabel": "パスワードを記憶する",
+    "loginButton": "ログイン"
+  },
+  "register": {
+    "RegisterNewAccount": "アカウント登録",
+    "Username": "ユーザー名：",
+    "Email": "メールアドレス：",
+    "Password": "パスワード：",
+    "ReenterPassword": "パスワード再入力：",
+    "Telephone": "電話番号：",
+    "PreferredLanguage": "言語設定",
+    "REGISTER": "登録",
+    "UsernamePlaceholder": "ユーザー名を入力してください",
+    "EmailPlaceholder": "メールアドレスを入力してください",
+    "PasswordPlaceholder": "パスワードを入力してください",
+    "ReenterPasswordPlaceholder": "パスワードを再入力してください",
+    "TelePlaceholder": "電話番号を入力してください"
+  }
+}
+    
+  

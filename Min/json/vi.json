@@ -1,0 +1,27 @@
+{
+  "login": {
+    "title": "Đăng nhập",
+    "subtitle": "Nếu bạn chưa có tài khoản, đăng ký",
+    "registerText": "tại đây",
+    "emailPlaceholder": "Nhập email của bạn",
+    "passwordPlaceholder": "Nhập mật khẩu của bạn",
+    "rememberPasswordLabel": "Ghi nhớ mật khẩu",
+    "loginButton": "Đăng nhập"
+  },
+  "register": {
+    "RegisterNewAccount": "Đăng ký tài khoản mới",
+    "Username": "Tên người dùng:",
+    "Email": "Email:",
+    "Password": "Mật khẩu:",
+    "ReenterPassword": "Nhập lại mật khẩu:",
+    "Telephone": "Số điện thoại:",
+    "PreferredLanguage": "Ngôn ngữ chính",
+    "REGISTER": "ĐĂNG KÝ",
+    "UsernamePlaceholder": "Nhập tên người dùng",
+    "EmailPlaceholder": "Nhập email",
+    "PasswordPlaceholder": "Nhập mật khẩu",
+    "ReenterPasswordPlaceholder": "Nhập lại mật khẩu",
+    "TelePlaceholder": "Nhập số điện thoại"
+  }
+}
+  
